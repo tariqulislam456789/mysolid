@@ -1,0 +1,2 @@
+# mysolid
+bootstrap project
